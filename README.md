@@ -35,7 +35,6 @@ Orientado a:
 - herramientas para agencias y startups (SaaS)
 
 ### Enfoque técnico
-
 Me interesa especialmente:
 - diseño de arquitectura mínima pero sólida  
 - modelado de datos  
@@ -44,7 +43,6 @@ Me interesa especialmente:
 - documentación técnica clara  
 
 ## AIDO 
-
 Cofundador de **AIDO**, agencia tecnológica enfocada en:
 - soluciones digitales a medida  
 - automatización de procesos  
