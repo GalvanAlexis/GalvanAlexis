@@ -28,7 +28,7 @@ Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimiento t
 ## Educación y Habilidades
 
 - 🎓 **Data Science & IA** - Técnico Superior (Años 2/3 completado).
-- 🛠️ **Técnico IT** - Reparación de hardware y dominio de Office Avanzado.
+- 🛠️ **Técnico IT** - Reparación de PC a nivel componente, diagnóstico y solución de problemas, dominio de Office Avanzado.
 - 🏗️ **Filosofía Principal** - Claridad arquitectónica, mantenibilidad, escalabilidad e impacto práctico en el mundo real.
 
 ## Proyectos Destacados
