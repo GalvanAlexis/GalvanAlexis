@@ -17,7 +17,7 @@ Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimiento t
 ## Empieza Aquí
 
 - 🏢 **[AIDO](https://aidoagencia.com)** - Soluciones digitales, SaaS para PyMEs y proyectos de agencia.
-- 🌐 **[Portafolio](https://progresos-academicos.vercel.app/)** - Mi portafolio personal y proyectos recientes.
+- 🌐 **[Portafolio](https://blado-cavern.vercel.app/)** - Mi portafolio personal y proyectos recientes.
 
 ## Contacto
 
