@@ -2,7 +2,7 @@
 
 📍 **Buenos Aires, Argentina** | ⚔️ **Desarrollador Full-Stack** | 🚀 **Cofundador de [AIDO](https://aidoagencia.com)**
 
-Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimiento técnico, combinando **Data Science**, **IA** y **Desarrollo Full-Stack**.
+Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimientos técnicos, combinando **Desarrollo Full-Stack**, **IA** y **Data Science**.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
