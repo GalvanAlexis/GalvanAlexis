@@ -1,6 +1,6 @@
-# Hola, soy Blado (Alexis Galván) 👋
+# Hola, soy Blado (Alexis Galvan) 
 
-📍 **Buenos Aires, Argentina** | ⚔️ **Desarrollador Full-Stack** | 🚀 **Cofundador de [AIDO](https://aidoagencia.com)**
+📍 **Buenos Aires, Argentina** | **Desarrollador Full-Stack** | **Creador de [BladoDev](https://blado.dev)**
 
 Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimientos técnicos, combinando **Desarrollo Full-Stack**, **IA** y **Data Science**.
 
@@ -16,7 +16,7 @@ Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimientos 
 
 ## Empieza Aquí
 
-- 🏢 **[AIDO](https://aidoagencia.com)** - Soluciones digitales, SaaS para PyMEs y proyectos de agencia.
+- 🏢 **[BladoDev](https://blado.dev)** - Desarrollo de software y consultoria IT & IA.
 - 🌐 **[Portafolio](https://bladopc.vercel.app/)** - Mi portafolio personal y proyectos recientes.
 
 ## Contacto
@@ -33,7 +33,7 @@ Me dedico a crear sistemas robustos y sencillos para usuarios sin conocimientos 
 
 ## Proyectos Destacados
 
-- 🏢 **[aidoagencia.com](https://github.com/GalvanAlexis/aidoagencia.com)** - Plataforma web ejecutiva + administracion total de la empresa.
+- 🏢 **[blado.dev](https://github.com/GalvanAlexis/blado.dev)** - Plataforma web personal full-stack con Laravel, Livewire y MercadoPago.
 - 🍞 **[Focaccia](https://github.com/GalvanAlexis/Focaccia)** - Menu digital web + gestion de pedidos y finanzas + inventario.
 - 🤖 **[Prometheus-6.0](https://github.com/GalvanAlexis/Prometheus-6.0)** - Agente IA con la capacidad de controlar toda la PC utilizando la voz.
 - 🚕 **[remis-app](https://github.com/GalvanAlexis/remis-app)** - Plataforma de viajes, App móvil Expo (100% FREE stack).
